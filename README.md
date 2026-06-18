@@ -1,137 +1,140 @@
 ```markdown
-# 👋 ¡Hola! Soy Arturo Gordo Arco
+<!-- ========================================================= -->
+<!--                     HEADER                                -->
+<!-- ========================================================= -->
 
-### 💻 Técnico en Administración de Sistemas Informáticos en Red (ASIR)
+<h1 align="center">
+  Hola 👋 Soy Arturo Gordo Arco
+</h1>
 
-Apasionado por la administración de sistemas, redes, cloud y ciberseguridad. Me encuentro en constante aprendizaje y disfruto automatizando procesos, resolviendo incidencias y mejorando infraestructuras tecnológicas.
+<h3 align="center">
+💻 System Administrator • Cloud Enthusiast • Cybersecurity • Linux
+</h3>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=ArturoGA-creator&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+<p align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/ArturoGA-creator?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/ArturoGA-creator?style=social)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Administrador+de+Sistemas;Cloud+Engineer+en+formación;Microsoft+365+%7C+Linux+%7C+Docker;Apasionado+por+la+Ciberseguridad;Siempre+aprendiendo+algo+nuevo"/>
+
+</p>
 
 ---
 
-# 🚀 Sobre mí
+<p align="center">
 
-🎓 Estudiante de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
+<a href="https://github.com/ArturoGA-creator">
+<img src="https://komarev.com/ghpvc/?username=ArturoGA-creator&label=Visitas&color=0e75b6&style=for-the-badge"/>
 
-Durante mis prácticas he trabajado con:
+</a>
 
-- 🖥️ Administración de sistemas Windows y Linux
-- ☁️ Microsoft 365
-- 🎫 Gestión de incidencias con ServiceNow
-- 🔐 Simulación de campañas de phishing
-- ⚙️ Automatización de tareas
-- 🌐 Redes e infraestructuras
-- 🛡️ Ciberseguridad
+<a href="https://github.com/ArturoGA-creator?tab=followers">
 
-Me considero una persona curiosa, responsable y con gran capacidad de aprendizaje. Disfruto enfrentándome a nuevos retos técnicos y ampliando continuamente mis conocimientos.
+<img src="https://img.shields.io/github/followers/ArturoGA-creator?logo=github&style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/ArturoGA-creator">
+
+<img src="https://img.shields.io/github/stars/ArturoGA-creator?affiliations=OWNER&style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 Sobre mí
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**
+
+💼 Experiencia en prácticas con:
+
+- Microsoft 365
+- Linux
+- Windows Server
+- Active Directory
+- ServiceNow
+- Redes
+- Automatización
+- Ciberseguridad
+
+🌱 Actualmente aprendiendo
+
+- Docker
+- Kubernetes
+- Azure
+- Python
+- Hardening Linux
+
+🎯 Mi objetivo es convertirme en **Administrador de Sistemas / Cloud Engineer**, participando en proyectos donde pueda aportar iniciativa, aprendizaje continuo y pasión por la tecnología.
+
+---
+
+# 🚀 Tecnologías
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,docker,git,github,vscode,html,css,js"/>
+
+</p>
+
+---
+
+# ☁️ Sistemas y Plataformas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows"/>
+
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office"/>
+
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow"/>
+
+</p>
 
 ---
 
 # 💡 Soft Skills
 
-- 🧠 Resolución de problemas
-- 📚 Aprendizaje continuo
-- 🤝 Trabajo en equipo
-- 💬 Comunicación
-- 🎯 Orientación a objetivos
-- ⚡ Proactividad
-- 📈 Mentalidad de mejora continua
-- 🔍 Atención al detalle
+<div align="center">
+
+| 💡 Competencia | Descripción |
+|:--------------|:------------|
+| 🧠 Resolución de problemas | Encuentro soluciones eficientes a incidencias técnicas |
+| 🤝 Trabajo en equipo | Buena comunicación y colaboración |
+| 📚 Aprendizaje continuo | Siempre aprendiendo nuevas tecnologías |
+| 🚀 Proactividad | Me gusta tomar la iniciativa |
+| 🎯 Organización | Responsable y orientado a objetivos |
+| 🔍 Atención al detalle | Importancia por la calidad del trabajo |
+
+</div>
 
 ---
 
-# 🛠️ Tecnologías
-
-### Sistemas Operativos
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-</p>
-
-### Lenguajes
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-
-### DevOps & Herramientas
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</p>
-
-### Tecnologías
-
-- Microsoft 365
-- ServiceNow
-- Virtualización
-- Redes
-- Active Directory
-- Linux
-- Windows Server
-- Automatización
-- Ciberseguridad
-
----
-
-# 🌱 Actualmente aprendiendo
-
-- ☁️ Cloud Computing
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔐 Blue Team
-- ⚙️ Automatización con Python
-- 🛡️ Hardening de sistemas Linux
-
----
-
-# 📊 Estadísticas de GitHub
+# 📈 Actualmente aprendiendo
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArturoGA-creator&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoGA-creator&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,python"/>
 
 </p>
 
 ---
 
-# 🏆 Objetivo Profesional
+<p align="center">
 
-Busco oportunidades para seguir creciendo como Administrador de Sistemas, Técnico de Infraestructura, Soporte IT o especialista en Cloud y Ciberseguridad, participando en proyectos donde pueda aportar iniciativa, compromiso y ganas de aprender.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturoGA-creator&theme=tokyonight"/>
 
----
-
-# 📫 Contacto
-
-📧 **Email**
-
-**agorarc2309@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/arturo-gordo
-
-🌐 **Portfolio**
-
-https://arturoga-es-cv.r2d2htncsa.es
-
-💻 **GitHub**
-
-https://github.com/ArturoGA-creator
+</p>
 
 ---
-
-> *"La tecnología cambia cada día. Mi objetivo es no dejar de aprender nunca."* 🚀
 ```
