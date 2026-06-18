@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Arturo Gordo
+# ¡Hola! Soy Arturo Gordo
 
 ### 💻 Systems Administrator | IT Support | Cloud & Cybersecurity Enthusiast
 
