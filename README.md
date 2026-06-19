@@ -135,41 +135,33 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
 <a href="mailto:agorarc2309@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
 
-**agorarc2309@gmail.com**
-
-</td>
-
-<td align="center" width="33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/ArturoGA-creator">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-**@ArturoGA-creator**
-
-</td>
-
-<td align="center" width="33%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/TU-USUARIO">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-**Arturo Gordo Arco**
+<br><br>
 
-</td>
+<a href="mailto:agorarc2309@gmail.com"><b>agorarc2309@gmail.com</b></a>
 
-</tr>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ArturoGA-creator"><b>@ArturoGA-creator</b></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/TU-USUARIO"><b>Arturo Gordo Arco</b></a>
 
 </div>
 
