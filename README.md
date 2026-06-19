@@ -2,7 +2,7 @@
   
 # ¡Hola! Soy Arturo Gordo
 
-### 💻 Systems Administrator | IT Support | Cloud & Cybersecurity Enthusiast
+## 💻 Systems Administrator | IT Support | Cloud & Cybersecurity Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Administration+of+IT+Systems;Cloud+%26+Cybersecurity+Enthusiast;Automation+Lover;Always+Learning+Something+New"/>
 
 </div>
@@ -26,7 +26,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <tr>
