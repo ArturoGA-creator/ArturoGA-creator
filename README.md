@@ -126,6 +126,6 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 <div align="center">
 
-### 💡 *"Technology is best when it brings people together."*
+### ⭐ *Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en dejar un comentario o colaborar!*  *
 
 </div>
