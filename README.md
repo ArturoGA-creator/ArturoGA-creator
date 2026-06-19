@@ -133,7 +133,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ## 📫 Connect With Me
 
-<table align="center">
+<table align="center" border="0" cellspacing="20" cellpadding="0">
   <tr>
     <td align="center">
       <a href="mailto:agorarc2309@gmail.com">
