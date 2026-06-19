@@ -10,23 +10,19 @@
 
 ---
 
-# 🚀 Sobre mí
+## 🚀 Sobre mí
 
 Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con experiencia práctica en entornos empresariales.
-
 Durante mis prácticas he trabajado con herramientas como **Microsoft 365**, **ServiceNow**, automatización de procesos, administración de sistemas y simulaciones de campañas de phishing.
+Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tareas y mejorar infraestructuras, actualmente:
 
-Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tareas y mejorar infraestructuras.
+- 🔧 Me gusta trabajar con entornos **Linux**, **Windows Server** y herramientas como **Docker**, **VirtualBox**, y **Proxmox**.  
 
-Actualmente mi objetivo es especializarme en:
+- 🌐 Interesado en redes, configuración de servicios, y administración de infraestructuras IT.  
 
-☁️ Cloud Computing
+- 🧠 Siempre aprendiendo sobre **scripting (Bash, Python)**, **monitorización** y **seguridad informática**.  
 
-🔐 Cybersecurity
-
-⚙️ System Administration
-
-🚀 DevOps
+- 🧩 Me gusta documentar mis proyectos y compartir soluciones a problemas técnicos.
 
 ---
 
