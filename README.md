@@ -21,7 +21,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 - 🌐 Interesado en redes, configuración de servicios, y administración de infraestructuras IT.
 
-- 🧠 Siempre aprendiendo sobre **scripting (Bash, Python)**, **monitorización** y **seguridad informática**.
+- 🧠 Siempre aprendiendo sobre **scripting (Bash, Python)**, **administración** y **seguridad informática**.
 
 - 🧩 Me gusta documentar mis proyectos y compartir soluciones a problemas técnicos.
 
