@@ -95,26 +95,19 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 </p>
 
----
+## 📂 Proyectos destacados
 
-# 🌱 Actualmente
 
-- 🔭 Mejorando mis conocimientos en Cloud
-- 📚 Aprendiendo Azure
-- 🔐 Profundizando en Ciberseguridad
-- ⚡ Automatizando tareas con PowerShell y Python
 
----
+🔹 **[Nombre del Proyecto 1](URL-del-repo)** — breve descripción del proyecto.  
 
-# 🎯 Objetivos
+🔹 **[Nombre del Proyecto 2](URL-del-repo)** — breve descripción del proyecto.  
 
-✔️ Obtener certificaciones Cloud
+🔹 **[Nombre del Proyecto 3](URL-del-repo)** — breve descripción del proyecto.  
 
-✔️ Especializarme en Infraestructura
 
-✔️ Trabajar en proyectos Open Source
 
-✔️ Aprender Kubernetes y Docker en profundidad
+> *Estoy constantemente actualizando mis proyectos a medida que avanzo en mis estudios.*
 
 ---
 
