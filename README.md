@@ -135,30 +135,47 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### 📧 Email
+
 <a href="mailto:agorarc2309@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 **agorarc2309@gmail.com**
 
-<br><br>
+</td>
+
+<td align="center" width="33%">
 
 ### 💻 GitHub
+
 <a href="https://github.com/ArturoGA-creator">
-  <img src="https://img.shields.io/badge/Visit%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 **@ArturoGA-creator**
 
-<br><br>
+</td>
+
+<td align="center" width="33%">
 
 ### 💼 LinkedIn
+
 <a href="https://linkedin.com/in/TU-USUARIO">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 **linkedin.com/in/TU-USUARIO**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
