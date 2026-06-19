@@ -112,7 +112,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 # 📂 Proyectos destacados
 
-🔹 **[Nombre del Proyecto 1](URL-del-repo)** — breve descripción del proyecto.  
+🔹 **[VaultWarden](URL-del-repo)** — breve descripción del proyecto.  
 🔹 **[Nombre del Proyecto 2](URL-del-repo)** — breve descripción del proyecto.  
 🔹 **[Nombre del Proyecto 3](URL-del-repo)** — breve descripción del proyecto.  
 > *Estoy constantemente actualizando mis proyectos a medida que avanzo en mis estudios.*
@@ -131,7 +131,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ---
 
-# 📫 Contacto
+# 📫 Contact With Me
 
 <p align="center">
 
