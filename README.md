@@ -13,7 +13,7 @@
 ## 🚀 Sobre mí
 
 Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con experiencia práctica en entornos empresariales.
-Durante mis prácticas he trabajado con herramientas como **Microsoft 365**, **ServiceNow**, automatización de procesos, administración de sistemas y simulaciones de campañas de phishing.
+Durante mis prácticas he trabajado con herramientas como **Microsoft 365** o **ServiceNow**, automatizando procesos, administrando sistemas y simulando campañas de phishing.
 
 Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tareas y mejorar infraestructuras, actualmente:
 
