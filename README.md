@@ -151,6 +151,6 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 <div align="center">
 
-### ⭐ *Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en dejar un comentario o colaborar!*  *
+### ⭐ *Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en dejar un comentario o colaborar!*
 
 </div>
