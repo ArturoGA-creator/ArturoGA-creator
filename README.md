@@ -133,51 +133,37 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 # 📫 Connect With Me
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" style="border:none; padding:0 35px;">
+<p align="center">
 
 <a href="mailto:agorarc2309@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=gmail" height="65"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ArturoGA-creator">
+  <img src="https://skillicons.dev/icons?i=github" height="65"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/TU-USUARIO">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
 </a>
 
 <br><br>
 
 <a href="mailto:agorarc2309@gmail.com"><b>agorarc2309@gmail.com</b></a>
 
-</td>
-
-<td align="center" style="border:none; padding:0 35px;">
-
-<a href="https://github.com/ArturoGA-creator">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/ArturoGA-creator"><b>@ArturoGA-creator</b></a>
 
-</td>
-
-<td align="center" style="border:none; padding:0 35px;">
-
-<a href="https://linkedin.com/in/TU-USUARIO">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/TU-USUARIO"><b>Arturo Gordo Arco</b></a>
 
-</td>
-
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
