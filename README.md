@@ -9,7 +9,7 @@
 
 ---
 
-# 🚀 Sobre mí
+# 🚀 About Me
 
 Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con experiencia práctica en entornos empresariales.
 Durante mis prácticas he trabajado con plataformas como **Microsoft 365** o **ServiceNow**, automatizando procesos, administrando sistemas y simulando campañas de phishing.
@@ -110,7 +110,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ---
 
-# 📂 Proyectos destacados
+# 📂 Featured Projects
 
 🔹 **[VaultWarden](URL-del-repo)** — breve descripción del proyecto.  
 🔹 **[Nombre del Proyecto 2](URL-del-repo)** — breve descripción del proyecto.  
