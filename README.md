@@ -34,7 +34,11 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ### 💻 Systems
 
-<!-- Aquí badges -->
+![Windows](...)
+
+![Linux](...)
+
+![Windows Server](...)
 
 </td>
 
@@ -42,7 +46,11 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ### ☁️ Cloud & Microsoft
 
-<!-- Aquí badges -->
+![Windows](...)
+
+![Linux](...)
+
+![Windows Server](...)
 
 </td>
 </tr>
@@ -52,7 +60,11 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ### 🌐 Networking
 
-<!-- Aquí badges -->
+![Windows](...)
+
+![Linux](...)
+
+![Windows Server](...)
 
 </td>
 
@@ -60,7 +72,11 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ### 🔐 Security
 
-<!-- Aquí badges -->
+![Windows](...)
+
+![Linux](...)
+
+![Windows Server](...)
 
 </td>
 </tr>
@@ -70,7 +86,11 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ### ⚙️ Automation
 
-<!-- Aquí badges -->
+![Windows](...)
+
+![Linux](...)
+
+![Windows Server](...)
 
 </td>
 
@@ -78,7 +98,11 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ### 🧰 Tools
 
-<!-- Aquí badges -->
+![Windows](...)
+
+![Linux](...)
+
+![Windows Server](...)
 
 </td>
 </tr>
