@@ -17,11 +17,11 @@ Durante mis prácticas he trabajado con herramientas como **Microsoft 365**, **S
 
 Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tareas y mejorar infraestructuras, actualmente:
 
-- 🔧 Me gusta trabajar con entornos **Linux**, **Windows Server** y herramientas como **Docker**, **VirtualBox**, y **Proxmox**.  
+- 🔧 Me gusta trabajar con entornos **Linux**, **Windows Server** o **Cloud** y herramientas como **Docker**, **VirtualBox**, o **Visual Studio** entre varias más.
 
-- 🌐 Interesado en redes, configuración de servicios, y administración de infraestructuras IT.  
+- 🌐 Interesado en redes, configuración de servicios, y administración de infraestructuras IT.
 
-- 🧠 Siempre aprendiendo sobre **scripting (Bash, Python)**, **monitorización** y **seguridad informática**.  
+- 🧠 Siempre aprendiendo sobre **scripting (Bash, Python)**, **monitorización** y **seguridad informática**.
 
 - 🧩 Me gusta documentar mis proyectos y compartir soluciones a problemas técnicos.
 
