@@ -28,59 +28,61 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 # 🛠️ Tech Stack
 
-### Operating Systems
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 💻 Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- Aquí badges -->
 
----
+</td>
 
-### Cloud & Microsoft
+<td valign="top" width="50%">
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+### ☁️ Cloud & Microsoft
 
-![Azure](https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!-- Aquí badges -->
 
----
+</td>
+</tr>
 
-### Networking
+<tr>
+<td valign="top">
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+### 🌐 Networking
 
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge)
+<!-- Aquí badges -->
 
-![DNS](https://img.shields.io/badge/DNS-Networks-blue?style=for-the-badge)
+</td>
 
----
+<td valign="top">
 
-### Security
+### 🔐 Security
 
-![Security](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=green)
+<!-- Aquí badges -->
 
-![Phishing Simulation](https://img.shields.io/badge/Phishing_Simulation-orange?style=for-the-badge)
+</td>
+</tr>
 
----
+<tr>
+<td valign="top">
 
-### Development
+### ⚙️ Automation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- Aquí badges -->
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+</td>
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<td valign="top">
 
----
+### 🧰 Tools
 
-### Tools
+<!-- Aquí badges -->
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
