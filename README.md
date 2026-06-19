@@ -110,7 +110,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ---
 
-## 📂 Proyectos destacados
+# 📂 Proyectos destacados
 
 🔹 **[Nombre del Proyecto 1](URL-del-repo)** — breve descripción del proyecto.  
 🔹 **[Nombre del Proyecto 2](URL-del-repo)** — breve descripción del proyecto.  
@@ -131,7 +131,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
 <p align="center">
 
