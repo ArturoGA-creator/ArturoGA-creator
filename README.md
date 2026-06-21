@@ -95,7 +95,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 <br/><br/>
 <b>agorarc2309@gmail.com</b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ArturoGA-creator"><b>@ArturoGA-creator</b></a>
+<a href="https://github.com/ArturoGA-creator"><b>ArturoGA-creator</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arturo-gordo-arco-a6ab4736a/"><b>Arturo Gordo Arco</b></a>
 </p>
