@@ -24,6 +24,82 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 - 🧩 Me gusta documentar mis proyectos y compartir soluciones a problemas técnicos.
 
+---
+
+# 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</td>
+
+<td valign="top" width="50%">
+
+### ☁️ Cloud & Microsoft
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🌐 Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-00599C?style=for-the-badge&style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-4CAF50?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-FF9800?style=for-the-badge)
+
+</td>
+
+<td valign="top">
+
+### 🔐 Security
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### ⚙️ Automation
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+
+<td valign="top">
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🛠️ Tech Stack
 
 ### 💻 Systems
@@ -57,6 +133,82 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</td>
+
+<td valign="top" width="50%">
+
+### ☁️ Cloud & Microsoft
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🌐 Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-00599C?style=for-the-badge&style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-4CAF50?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-FF9800?style=for-the-badge)
+
+</td>
+
+<td valign="top">
+
+### 🔐 Security
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### ⚙️ Automation
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+
+<td valign="top">
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
 
 # 📂 Featured Projects
 
