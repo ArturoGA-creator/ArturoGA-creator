@@ -112,9 +112,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 # 📂 Featured Projects
 
-🔹 **[VaultWarden](URL-del-repo)** — breve descripción del proyecto.  
-🔹 **[Nombre del Proyecto 2](URL-del-repo)** — breve descripción del proyecto.  
-🔹 **[Nombre del Proyecto 3](URL-del-repo)** — breve descripción del proyecto.  
+🔹 **[VaultWarden](URL-del-repo)** — Proyecto para hacer un gestor de contraseñas, montaré un servidor VaultWarden a través de Docker como si fuera una aplicación que inicia junto con mi equipo. Busco asegurar mi seguridad al igual que obtener la comodidad y ventajas que nos proporcionan los gestores de contraseñas sin exponer mis datos.
 > *Estoy constantemente actualizando mis proyectos a medida que avanzo en mis estudios.*
 
 ---
