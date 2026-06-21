@@ -129,7 +129,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 <a href="mailto:agorarc2309@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="65"/></a>
