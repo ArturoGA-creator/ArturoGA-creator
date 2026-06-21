@@ -34,11 +34,11 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 
 ### 💻 Systems
 
-!Windows
+Windows
 
-![Linux]
+Linux
 
-![Windows Server]
+Windows Server
 
 </td>
 
