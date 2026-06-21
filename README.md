@@ -46,11 +46,11 @@ Windows Server
 
 ### ☁️ Cloud & Microsoft
 
-![Windows](...)
+Azure
 
-![Linux](...)
+Microsoft 365
 
-![Windows Server](...)
+Entra ID
 
 </td>
 </tr>
@@ -60,11 +60,13 @@ Windows Server
 
 ### 🌐 Networking
 
-![Windows](...)
+Cisco
 
-![Linux](...)
+DNS
 
-![Windows Server](...)
+DHCP
+
+VLAN
 
 </td>
 
@@ -72,11 +74,11 @@ Windows Server
 
 ### 🔐 Security
 
-![Windows](...)
+Kali 
 
-![Linux](...)
+Microsoft Defender
 
-![Windows Server](...)
+Wireshark
 
 </td>
 </tr>
@@ -86,11 +88,11 @@ Windows Server
 
 ### ⚙️ Automation
 
-![Windows](...)
+Bash
 
-![Linux](...)
+Powershell
 
-![Windows Server](...)
+Python
 
 </td>
 
@@ -98,11 +100,13 @@ Windows Server
 
 ### 🧰 Tools
 
-![Windows](...)
+Git
 
-![Linux](...)
+Docker
 
-![Windows Server](...)
+VirtualBox
+
+Visual Studio Code
 
 </td>
 </tr>
