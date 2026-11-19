@@ -11,8 +11,8 @@
 
 # 🚀 About Me
 
-Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con experiencia práctica en entornos empresariales.
-Durante mis prácticas he trabajado con plataformas como **Microsoft 365** o **ServiceNow**, automatizando procesos, administrando sistemas y simulando campañas de phishing.
+Soy un trabajador en el sector de informática con experiencia en entornos empresariales.
+He trabajado con plataformas como **Microsoft 365** - **ServiceNow** - **Jira** - **Active Directory**, automatizando procesos, resolviendo incidencias y administrando sistemas.
 
 Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tareas y mejorar infraestructuras, actualmente:
 
@@ -70,7 +70,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 # 📂 Featured Projects
 
 🔹 **[VaultWarden](https://github.com/ArturoGA-creator/VaultWarden)** — Proyecto para hacer un gestor de contraseñas, montaré un servidor VaultWarden a través de Docker como si fuera una aplicación que inicia junto con mi equipo. Busco asegurar mi seguridad al igual que obtener la comodidad y ventajas que nos proporcionan los gestores de contraseñas sin exponer mis datos.
-> *Estoy constantemente actualizando mis proyectos a medida que avanzo en mis estudios.*
+> *Estoy constantemente actualizando mis proyectos a medida que avanzo en mi carrera profesional.*
 
 ---
 
