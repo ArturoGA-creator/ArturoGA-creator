@@ -31,7 +31,7 @@ Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tarea
 ### 💻 Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0052CC?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ☁️ Cloud & Microsoft
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
