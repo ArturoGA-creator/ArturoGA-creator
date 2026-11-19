@@ -12,7 +12,7 @@
 # 🚀 About Me
 
 Soy un trabajador en el sector de informática con experiencia en entornos empresariales.
-He trabajado con plataformas como **Microsoft 365** - **ServiceNow** - **Jira** - **Active Directory**, automatizando procesos, resolviendo incidencias y administrando sistemas.
+He trabajado con plataformas como **Microsoft 365**/**ServiceNow**/**Jira**/**Active Directory**, automatizando procesos, resolviendo incidencias y administrando sistemas.
 
 Me apasiona aprender nuevas tecnologías y encontrar formas de automatizar tareas y mejorar infraestructuras, actualmente:
 
